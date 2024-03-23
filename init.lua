@@ -1,0 +1,12 @@
+require("configs")
+require("autocmds")
+
+require("plugins/formatters")
+require("plugins/keymaps")
+require("plugins/linting")
+require("plugins/lsp")
+require("plugins/mason")
+require("plugins/nvim-cmp")
+require("plugins/packer")
+require("plugins/telescope")
+require("plugins/treesitter")
